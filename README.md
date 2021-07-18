@@ -1,6 +1,6 @@
 # joke-programmer-masuk-restoran
 
-Idenya sangat mungkin terinspirasi dari joke "A programmer walks into a bar" milik orang lain
+"A programmer walks into a restaurant" versi bahasa Indonesia Idenya sangat mungkin terinspirasi dari joke "A programmer walks into a bar" milik orang lain
 
 ---
 
@@ -32,3 +32,7 @@ Programmer open-source masuk restoran. Dia nanya ke pelayan maksud free air mine
 ---
 
 Query SQL masuk restoran. Dia jalan ke 2 table terus bilang "Boleh saya join?"
+
+---
+
+SEO Specialist masuk restoran, kafe, rumah makan, kantin, warung kopi, kedai kopi, restoran murah, restoran terbaik di jakarta
