@@ -24,3 +24,7 @@ Aliquam vulputate pulvinar erat. Fusce ultrices leo feugiat magna eleifend, vel 
 - dia mesen /.env
 - dia mesen /.git
 - dia mesen <script>getCreditCard()</script>
+
+---
+
+Programmer open-source masuk restoran. Dia nanya ke pelayan maksud free air mineral itu sama kayak free speech atau free makan
