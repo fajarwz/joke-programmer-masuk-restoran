@@ -28,3 +28,7 @@ Aliquam vulputate pulvinar erat. Fusce ultrices leo feugiat magna eleifend, vel 
 ---
 
 Programmer open-source masuk restoran. Dia nanya ke pelayan maksud free air mineral itu sama kayak free speech atau free makan
+
+---
+
+Query SQL masuk restoran. Dia jalan ke 2 table terus bilang "Boleh saya join?"
