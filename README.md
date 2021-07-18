@@ -43,4 +43,4 @@ Seorang web developer nelpon ke restoran, dia bilang "Saya mau pesen nasi paket 
 
 ---
 
-UX Designer masuk restoran. Tapi dia balik lagi, katanya pelayanannya jelek
+UX Designer masuk restoran. Tapi dia balik lagi karena pelayanannya jelek
