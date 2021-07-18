@@ -39,4 +39,4 @@ SEO Specialist masuk restoran, kafe, rumah makan, kantin, warung kopi, kedai kop
 
 ---
 
-Seorang programmer nelpon ke restoran, dia bilang "Saya mau pesen nasi paket A 1, mohon delivery ke 103.150.139.152 ya.."
+Seorang web developer nelpon ke restoran, dia bilang "Saya mau pesen nasi paket A 1, mohon delivery ke 103.150.139.152 ya.."
