@@ -36,3 +36,7 @@ Query SQL masuk restoran. Dia jalan ke 2 table terus bilang "Boleh saya join?"
 ---
 
 SEO Specialist masuk restoran, kafe, rumah makan, kantin, warung kopi, kedai kopi, restoran murah, restoran terbaik di jakarta
+
+---
+
+Seorang programmer nelpon ke restoran, dia bilang "Saya mau pesen nasi paket A 1, mohon delivery ke 103.150.139.152 ya.."
